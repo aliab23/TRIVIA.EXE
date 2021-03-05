@@ -1,2 +1,2 @@
 # TRIVIA.EXE
-tRiViA
+This Game is Harmless, No Risk When Playing
